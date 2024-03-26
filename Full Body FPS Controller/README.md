@@ -33,14 +33,12 @@ After downloading, simply drag and drop the "Full Body FPS Controller" file into
 Asset Store Package Dependencies:  AllSky  Free  -  10  Sky  /  Skybox  Set [Link](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
 
 ### Media :
+<img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/gif2%20(2).gif">
+<img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/gif2%20(1).gif">
 <img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/image_001_0000.jpg">
 <img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/image_002_0007.jpg">
 <img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/image_003_0000.jpg">
 <img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/image_004_0000.jpg">
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/videoplayback%20(1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
