@@ -1,4 +1,4 @@
-<img src="https://github.com/aadityabhoyaar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/LOGO.png">
+<img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/LOGO.png">
 
 # Full Body FPS Controller
 ### Summary :
