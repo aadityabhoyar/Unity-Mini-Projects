@@ -19,7 +19,7 @@ Or you can download individual project files using
 https://download-directory.github.io/
 ```
 
-### How to Contribute
+### How to Contribute :
 We welcome contributions from the community! Follow these steps to contribute to the repository:
 
 1. Fork the repository to your GitHub account.
@@ -41,3 +41,11 @@ git commit -m "Add new Unity 3D project"
 git push origin feature/new-project
 ```
 6. Open a pull request from your branch to the main repository's `main` branch on GitHub.
+
+### Contribution Guidelines
+To maintain a healthy environment and ensure the quality of projects in this repository, please adhere to the following guidelines:
+
+- Only submit high-quality Unity 2D or 3D projects.
+- Include clear documentation and instructions for each project.
+- Avoid making unnecessary changes to the main `README.md` or other critical files in the repository.
+- Follow best practices for Unity development, including clean code and efficient asset management.
