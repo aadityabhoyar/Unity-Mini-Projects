@@ -6,7 +6,7 @@ Hey, so this repo's got a list of awesome and cool Unity 2D and 3D projects that
 ## Projects In The Shop:
  | Logo | Name          | 3D or 2D | Size   | Build Version |
 |------|---------------|----------|--------|---------------|
-| ![Logo](https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/LOGO.png) | Full Body FPS Controller | 3D | 246 MB| 2021.3.24f1 |
+| ![Logo](https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/LOGO.png) | [Full Body FPS Controller](https://github.com/aadityabhoyar/Unity-Project-Store/tree/main/Full%20Body%20FPS%20Controller) | 3D | 246 MB| 2021.3.24f1 |
 
 
 ✌️ Happy coding! ✌️
