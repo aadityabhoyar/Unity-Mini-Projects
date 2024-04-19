@@ -3,6 +3,7 @@ Welcome to the Awesome Unity Mini Projects Repository!
 
 Hey, so this repo's got a list of awesome and cool Unity 2D and 3D projects that are beginner to intermediate-friendly.
 
+## Projects In The Shop:
  | Logo | Name          | 3D or 2D | Size   | Build Version |
 |------|---------------|----------|--------|---------------|
 | ![Logo](logo.png) | Project Name 1 | 3D       | Large  | 1.0.0         |
