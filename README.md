@@ -10,46 +10,52 @@ Hey, so this repo's got a list of awesome and cool Unity 2D and 3D projects that
 | <img src="https://github.com/aadityabhoyar/Unity-Project-Store/blob/main/Full%20Body%20FPS%20Controller/Project%20Media/LOGO.png" alt="Logo" width="100"/> | [Full Body FPS Controller](https://github.com/aadityabhoyar/Unity-Project-Store/tree/main/Full%20Body%20FPS%20Controller) | 3D | 246 MB | 2021.3.24f1 |
 
 ### How to download 📥:
-You can clone the complete repo by:
-```
-git clone https://github.com/aadityabhoyar/Unity-Project-Store
-```
-Or you can download individual project files using
-```
-https://download-directory.github.io/
-```
+You have two options to get your hands on these exciting projects:
+
+1. **Clone the Complete Repo**: Use the following command to clone the entire repository to your local machine:
+
+    ```bash
+    git clone https://github.com/aadityabhoyar/Unity-Project-Store
+    ```
+
+2. **Download Individual Projects**: Visit the project's GitHub page and download individual project files using [this link](https://download-directory.github.io/).
 
 ### How to Contribute 🛠️:
-We welcome contributions from the community! Follow these steps to contribute to the repository:
+We believe in the power of community collaboration! Follow these steps to contribute to the repository:
 
-1. Fork the repository to your GitHub account.
-```
-git fork <repository_URL>
-```
-2. Create a new branch for your changes.
-```
-git checkout -b feature/new-project
-```
-3. Make your desired changes, such as adding a new project or improving existing ones.
-4. Commit your changes with clear and descriptive commit messages.
-```
-git add .
-git commit -m "Add new Unity 3D project"
-```
-5. Push your changes to your forked repository.
-```
-git push origin feature/new-project
-```
-6. Open a pull request from your branch to the main repository's `main` branch on GitHub.
+1. **Fork the Repository**: Fork the repository to your GitHub account.
+    ```bash
+    git fork <repository_URL>
+    ```
+
+2. **Create a New Branch**: Create a new branch for your changes.
+    ```bash
+    git checkout -b feature/new-project
+    ```
+
+3. **Make Your Changes**: Add a new project or improve existing ones.
+
+4. **Commit Your Changes**: Commit your changes with clear and descriptive commit messages.
+    ```bash
+    git add .
+    git commit -m "Add new Unity 3D project"
+    ```
+
+5. **Push Your Changes**: Push your changes to your forked repository.
+    ```bash
+    git push origin feature/new-project
+    ```
+
+6. **Open a Pull Request**: Open a pull request from your branch to the main repository's `main` branch on GitHub.
 
 ### Contribution Guidelines 📋:
-To maintain a healthy environment and ensure the quality of projects in this repository, please adhere to the following guidelines:
+To maintain the quality and integrity of this repository, please adhere to the following guidelines:
 
-- Only submit high-quality Unity 2D or 3D projects.
-- Include clear documentation and instructions for each project.
-- Avoid making unnecessary changes to the main `README.md` or other critical files in the repository.
-- Follow best practices for Unity development, including clean code and efficient asset management.
+- **High-Quality Projects**: Only submit high-quality Unity 2D or 3D projects.
+- **Clear Documentation**: Include clear documentation and instructions for each project.
+- **Respectful Editing**: Avoid making unnecessary changes to the main `README.md` or other critical files in the repository.
+- **Best Practices**: Follow best practices for Unity development, including clean code and efficient asset management.
 
-**Thank you for your interest in contributing to the Unity Projects Repository! Together, we can build an inspiring collection of Unity projects for developers worldwide.**
+**Thank you for your interest in contributing to the Unity Projects Repository! Together, let's build an inspiring collection of Unity projects for developers worldwide.**
 
 Happy Coding! 🎉
