@@ -50,6 +50,6 @@ To maintain a healthy environment and ensure the quality of projects in this rep
 - Avoid making unnecessary changes to the main `README.md` or other critical files in the repository.
 - Follow best practices for Unity development, including clean code and efficient asset management.
 
-Thank you for your interest in contributing to the Unity Projects Repository! Together, we can build an inspiring collection of Unity projects for developers worldwide.
+**Thank you for your interest in contributing to the Unity Projects Repository! Together, we can build an inspiring collection of Unity projects for developers worldwide.**
 
 Happy Coding! 🎉
